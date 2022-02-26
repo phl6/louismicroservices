@@ -1,0 +1,6 @@
+com\louiscode\customer\Customer$CustomerBuilder.class
+com\louiscode\customer\CustomerController.class
+com\louiscode\customer\Customer.class
+com\louiscode\customer\CustomerService.class
+com\louiscode\customer\CustomerApplication.class
+com\louiscode\customer\CustomerRegistrationRequest.class
